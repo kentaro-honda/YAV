@@ -1,0 +1,4 @@
+Makefile
+*.app
+*.dSYM
+*.o
